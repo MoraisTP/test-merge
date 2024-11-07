@@ -7,3 +7,9 @@ p {
   color: aliceblue;
   font-size: 20px;
 }
+
+p {
+  font: optional;
+  color: bisque;
+  font-family: "Courier New", Courier, monospace;
+}
