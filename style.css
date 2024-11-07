@@ -13,3 +13,18 @@ p {
   color: bisque;
   font-family: "Courier New", Courier, monospace;
 }
+h1 {
+  color: aliceblue;
+  font-size: 50px;
+}
+
+p 
+  color: aliceblue;
+  font-size: 20px;
+}
+
+p {
+  font: optional;
+  color: bisque;
+  font-family: "Courier New", Courier, monospace;
+}
